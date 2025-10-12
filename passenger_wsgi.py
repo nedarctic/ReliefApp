@@ -1,6 +1,6 @@
 import sys, os
 
-project_home = '/home/justuski/repositories/ReliefApp'
+project_home = '/home/justuski/reliefapp'
 if project_home not in sys.path:
     sys.path.append(project_home)
 
