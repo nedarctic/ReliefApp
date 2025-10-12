@@ -2,7 +2,7 @@ import os
 import sys
 
 
-project_home = '/home/justuski/reliefapp'
+project_home = '/home/justuski/reliefapp_backend'
 if project_home not in sys.path:
     sys.path.insert(0, project_home)
 
